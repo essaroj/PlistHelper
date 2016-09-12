@@ -1,12 +1,10 @@
 //
 //  PlistHelper.swift
-//  mTaxi
 //
 //  Created by Saroj on 2/23/16.
 //  Copyright © 2016 Saroj. All rights reserved.
 //
 import UIKit
-import SwiftyJSON
 
 public class PlistHelper: NSObject{
     
