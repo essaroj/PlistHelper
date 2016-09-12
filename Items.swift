@@ -2,8 +2,8 @@
 //  GoogleItems.swift
 //  GrabTaxi
 //
-//  Created by Bikram on 5/25/15.
-//  Copyright (c) 2015 Bikram. All rights reserved.
+//  Created by Saroj on 5/25/15.
+//  Copyright (c) 2015 Saroj. All rights reserved.
 //
 
 import UIKit
